@@ -1,0 +1,10 @@
+.container {
+    width: 400px;
+    height: 200px;
+    margin: 200px auto;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
